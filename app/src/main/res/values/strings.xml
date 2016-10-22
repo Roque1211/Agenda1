@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="Nombre">Nombre completo</string>
+    <string name="FechaNacimiento">Fecha de nacimiento</string>
+    <string name="Telefono">Teléfono</string>
+    <string name="Email">E-Mail</string>
+    <string name="Descripcion">Descripción del contacto</string>
+    <string name="TextoBoton">Siguiente</string>
+    <string name="TextoConfirmar">Confirmar Datos</string>
+    <string name="NombreConfirmar"> Sin Nombre</string>
+    <string name="TituloFechaNacimientoConfirmar">Fecha Nacimiento: </string>
+    <string name="FechaNacimientoConfirmar">Sin Fecha Nacimiento </string>
+    <string name="TituloTelefonoConfirmar">Teléfono: </string>
+    <string name="TelefonoConfirmar">Sin Telefono </string>
+    <string name="TituloEmailConfirmar">Email: </string>
+    <string name="EmailConfirmar">Sin Email </string>
+    <string name="DescripcionConfirmar">Sin Descripción </string>
+    <string name="TituloDescripcionConfirmar">Descripción: </string>
+    <string name="TextoBotonEditar">Editar datos</string>
+
+</resources>
